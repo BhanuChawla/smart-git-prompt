@@ -92,4 +92,4 @@ git pull
 
 ## Bonus
 
-![Did you say a 'Better Git'?](https://raw.github.com/bhanuchawla/smart-git-prompt/master/git-llama.png)
+![Did you say a 'Better Git'?](https://raw.github.com/bhanuchawla/smart-git-prompt/master/git-llama.gif)
