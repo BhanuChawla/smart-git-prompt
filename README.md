@@ -88,3 +88,8 @@ git pull
 
   0. You just DO WHAT THE #### YOU WANT TO.
 ```
+
+
+## Bonus
+
+![Did you say a 'Better Git'?](https://raw.github.com/bhanuchawla/smart-git-prompt/master/git-llama.png)
