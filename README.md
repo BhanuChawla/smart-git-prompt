@@ -22,7 +22,7 @@ Clone the project to a `.bash` folder in your home directory:
 ```bash
 mkdir ~/.bash
 cd ~/.bash
-git clone git://github.com/bhanuchawla/smart-git-prompt.git
+git clone https://github.com/BhanuChawla/smart-git-prompt.git
 ```
 
 Edit your  `~/.profile` or `~/.bash_profile` and add the following to the top:
